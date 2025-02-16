@@ -12,6 +12,7 @@
 * [Methodology Positive Impact](features/methodology-positive-impact.md)
 * [5 Principles of Regeneration](features/5-principles-of-regeneration.md)
 * [8 Forms of Capital Formation](features/8-forms-of-capital-formation.md)
+* [8 Forms of Capital & SDGs Alignment](features/8-forms-of-capital-and-sdgs-alignment.md)
 
 ## Development Phases
 
