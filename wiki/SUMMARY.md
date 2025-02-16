@@ -14,6 +14,10 @@
 * [8 Forms of Capital Formation](features/8-forms-of-capital-formation.md)
 * [8 Forms of Capital & SDGs Alignment](features/8-forms-of-capital-and-sdgs-alignment.md)
 
+## Framework Add-ons <a href="#addons" id="addons"></a>
+
+* [Ecological Impact Frameworks](addons/ecological-impact-frameworks.md)
+
 ## Development Phases
 
 * [Why Syntropic Farming](development-phases/why-syntropic-farming.md)
