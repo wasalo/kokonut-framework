@@ -1,4 +1,4 @@
-# Kokonut Framework ALPHA Version
+# Kokonut Framework ALPHA Text-Version
 
 ### **A vision of change**
 
