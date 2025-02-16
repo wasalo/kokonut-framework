@@ -7,6 +7,12 @@
 * [Common Data Schema](components/data-schema.md)
 * [Pillars of Value](components/pillars-of-value.md)
 
+## Framework Features <a href="#features" id="features"></a>
+
+* [Methodology Positive Impact](features/methodology-positive-impact.md)
+* [5 Principles of Regeneration](features/5-principles-of-regeneration.md)
+* [8 Forms of Capital Formation](features/8-forms-of-capital-formation.md)
+
 ## Development Phases
 
 * [Why Syntropic Farming](development-phases/why-syntropic-farming.md)
