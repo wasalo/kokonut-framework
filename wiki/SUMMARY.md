@@ -9,8 +9,12 @@
 
 ## Development Phases
 
+* [Why Syntropic Farming](development-phases/why-syntropic-farming.md)
 * [PHASE I](development-phases/phase-i.md)
 * [PHASE II](development-phases/phase-ii.md)
 * [PHASE III](development-phases/phase-iii.md)
 * [PHASE IV](development-phases/phase-iv.md)
-* [Why Syntropic Farming](development-phases/why-syntropic-farming.md)
+
+## AgriTech
+
+* [Measurement, Reporting & Verification](agritech/measurement-reporting-and-verification.md)

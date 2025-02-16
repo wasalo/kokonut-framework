@@ -1,3 +1,7 @@
+---
+icon: seedling
+---
+
 # Why Syntropic Farming
 
 ## Syntropic Farming: Why Is It Worth Implementing?
