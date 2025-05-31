@@ -8,7 +8,6 @@
 | Forecasted Budget       | Number        | Estimated Development Budget                                                                                                |
 | Land Size               | Number        | Size of Land for Agricultural Activities                                                                                    |
 | Project Location        | Coordinates   | Geographic coordinates or UTM (Universal Transverse Mercator)                                                               |
-| Planting Capacity       | Number        | Based on the crop selection, this field would allow specifying how many plants fit in the project.                          |
 | Source of Funding       | Text          | Funding Source for Project Development.                                                                                     |
 | Revenue Streams         | Multiselect   | Streams of revenue based on agricultural activities and Crop Selection.                                                     |
 | Governance Mechanism    | Single Select | Type of governance that will govern the Development, Operations, and Beneficiaries of the project.                          |
