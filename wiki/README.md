@@ -1,4 +1,10 @@
+---
+icon: scroll
+---
+
 # Introduction
+
+<figure><img src=".gitbook/assets/A Vision of Change - KKN Social Post - Light.png" alt=""><figcaption></figcaption></figure>
 
 #### **A vision of change**
 
